@@ -1,0 +1,6 @@
+PyPDF2==3.0.0
+re
+collections
+nltk==3.7
+openpyxl==3.0.9
+tkinter
